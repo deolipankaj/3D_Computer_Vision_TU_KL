@@ -8,6 +8,6 @@ This repository is divided into various folders in which individual topic has be
 
 To follow-up with the course follow the sequence:
 
-1. Introduction
+1. Introduction to Camera
 2. Calibration
 3. Homography
