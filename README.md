@@ -9,5 +9,10 @@ This repository is divided into various folders in which individual topic has be
 To follow-up with the course follow the sequence:
 
 1. Introduction to Camera
-2. Calibration
+2. Calibration (To be updated)
 3. Homography
+4. Parameter estimation
+5. Epipolar Geometry
+6. Structure from motion - 1
+7. Structure for motion - 2
+8. Dense reconstruction
