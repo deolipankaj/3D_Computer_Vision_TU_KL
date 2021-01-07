@@ -16,3 +16,4 @@ To follow-up with the course follow the sequence:
 6. Structure from motion - 1
 7. Structure for motion - 2
 8. Dense reconstruction
+9. Structured light
